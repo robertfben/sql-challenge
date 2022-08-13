@@ -4,6 +4,7 @@
 ## Data Engineering
 
  - Used the provided information to create a table schema for each of the six CSV files. Specified data types, primary keys, foreign keys, and other constraints.
+![image](https://user-images.githubusercontent.com/91276925/184511727-45973327-8c02-4e08-8025-dafa5141dcd4.png)
 
  - For the primary keys, verified that the column is unique. Otherwise, created a composite key, which takes two primary keys to uniquely identify a row.
 
