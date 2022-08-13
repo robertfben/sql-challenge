@@ -44,8 +44,6 @@ After completing the databse, performed these steps:
 
 ## Deliverables
 
- - Submission
-
  - Created an image file of the ERD (Entity Relationship Diagram).
 
  - Created a .sql file of the table schemata.
