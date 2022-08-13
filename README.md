@@ -33,8 +33,8 @@ After completing the databse, performed these steps:
 ### Python Analysis/Visualization
 
 - Questions to be answered:
- - What are the most common salary ranges for employees in this dataset?
- - What are the average salaries for each Job Title in the data?
+  - What are the most common salary ranges for employees in this dataset?
+  - What are the average salaries for each Job Title in the data?
 
 1) Completed further analysis by importing the SQL database into Jupyter Notebook using Pandas and SQLAlchemy.
 
