@@ -55,4 +55,6 @@ After completing the databse, performed these steps:
 
  - Created a Jupyter notebook of the bonus analysis.
 
+## References:
 
+Mockaroo, LLC. (2021). Realistic Data Generator. https://www.mockaroo.com/
