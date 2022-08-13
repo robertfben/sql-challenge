@@ -1,4 +1,9 @@
+# Background
+
+Completed a research task on a realistically-generated dataset including Employee Data. All that remains of the database of employees from that period are six CSV files. Designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, performed data modeling, data engineering, and data analysis.
+
 # Employee Database
+
  This is divided into three parts: data modeling, data engineering, and data analysis.
 
 ## Data Engineering
@@ -13,7 +18,7 @@
  - Imported each CSV file into the corresponding SQL table.
  
 ## Data Analysis
-After completing the databse, performed these steps:
+After completing the database, performed these steps:
 
 1) Listed the following details of each employee: employee number, last name, first name, sex, and salary.
 
