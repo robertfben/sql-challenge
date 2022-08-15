@@ -1,6 +1,6 @@
 # Background
 
-Completed a research task on a realistically-generated dataset including Employee Data. All that remains of the database of employees from that period are six CSV files. Designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, performed data modeling, data engineering, and data analysis.
+Completed a research task on a realistically-generated dataset including Employee Data. All that remains of the database of employees from that period are six CSV files. Designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, performed data modeling, data engineering, and data analysis. The goal of this is to answer some realistic questions to be answered relating to this data thorugh analysis and visualization using SQL, SQL database, Jupyter Notebook (Python) and ERD's.
 
 # Employee Database
 
@@ -24,17 +24,17 @@ After completing the database, performed these steps:
 
 2) Listed first name, last name, and hire date for employees who were hired in 1986.
 
-3) List the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
+3) Listed the manager of each department with the following information: department number, department name, the manager's employee number, last name, first name.
 
-4) List the department of each employee with the following information: employee number, last name, first name, and department name.
+4) Listed the department of each employee with the following information: employee number, last name, first name, and department name.
 
-5) List first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
+5) Listed first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B."
 
-6) List all employees in the Sales department, including their employee number, last name, first name, and department name.
+6) Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 
-7) List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
+7) Listed all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
-8) List the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
+8) Listed the frequency count of employee last names (i.e., how many employees share each last name) in descending order.
 
 ### Python Analysis/Visualization
 
