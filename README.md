@@ -45,10 +45,10 @@ After completing the database, performed these steps:
 1) Completed further analysis by importing the SQL database into Jupyter Notebook using Pandas and SQLAlchemy.
 
 2) Created a histogram to visualize the most common salary ranges for employees.
-<img width="446" alt="Screen Shot 2022-08-13 at 5 41 15 PM" src="https://user-images.githubusercontent.com/91276925/184511688-1d74f08f-6f00-4356-ae24-206bf2418c07.png">
+<img width="578" alt="Screen Shot 2022-08-14 at 11 50 40 PM" src="https://user-images.githubusercontent.com/91276925/184574363-3b5ec5eb-93d1-4d5a-af33-0d95d1b71247.png">
 
 3) Created a bar chart of average salary by title.
-<img width="469" alt="Screen Shot 2022-08-13 at 5 42 00 PM" src="https://user-images.githubusercontent.com/91276925/184511692-47cca32e-e767-42f9-b3a5-a4aae6e02382.png">
+<img width="605" alt="Screen Shot 2022-08-14 at 11 51 03 PM" src="https://user-images.githubusercontent.com/91276925/184574373-3d9b4769-2972-4229-b03c-8575040b425d.png">
 
 ## Deliverables
 
