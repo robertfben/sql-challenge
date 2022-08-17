@@ -1,6 +1,6 @@
 # Background
 
-Completed a research task on a realistically-generated dataset including Employee Data. All that remains of the database of employees from that period are six CSV files. Designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data. In other words, performed data modeling, data engineering, and data analysis. The goal of this is to answer some realistic questions to be answered relating to this data thorugh analysis and visualization using SQL, SQL database, Jupyter Notebook (Python) and ERD's.
+Completed a research task on a realistically-generated dataset including Employee Data. All that remains of the database of employees from that period are six CSV files. First designed the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answered questions about the data that would mirror real business questions that need to be answered. In other words, performed data modeling, data engineering, and data analysis on the data. The goal of this is to answer some realistic questions to be answered relating to this data thorugh analysis and visualization using SQL, SQL database, Jupyter Notebook (Python) and ERD's.
 
 # Employee Database
 
