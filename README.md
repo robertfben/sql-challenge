@@ -58,7 +58,7 @@ After completing the database, performed these steps:
 
  - Created a .sql file of the SQL queries.
 
- - Created a Jupyter notebook of the bonus analysis.
+ - Created a Jupyter notebook of the additional analysis.
 
 ## References:
 
